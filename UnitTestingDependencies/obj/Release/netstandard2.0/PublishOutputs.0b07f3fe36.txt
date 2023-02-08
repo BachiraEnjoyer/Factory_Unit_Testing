@@ -1,0 +1,13 @@
+H:\Github Projects\Factory_Unit_Testing\Factory\Assets\Tests\Dependecies\UnitTestingDependencies.dll
+H:\Github Projects\Factory_Unit_Testing\Factory\Assets\Tests\Dependecies\UnitTestingDependencies.deps.json
+H:\Github Projects\Factory_Unit_Testing\Factory\Assets\Tests\Dependecies\UnitTestingDependencies.pdb
+H:\Github Projects\Factory_Unit_Testing\Factory\Assets\Tests\Dependecies\Castle.Core.dll
+H:\Github Projects\Factory_Unit_Testing\Factory\Assets\Tests\Dependecies\FluentAssertions.dll
+H:\Github Projects\Factory_Unit_Testing\Factory\Assets\Tests\Dependecies\Moq.dll
+H:\Github Projects\Factory_Unit_Testing\Factory\Assets\Tests\Dependecies\NSubstitute.dll
+H:\Github Projects\Factory_Unit_Testing\Factory\Assets\Tests\Dependecies\System.Diagnostics.EventLog.dll
+H:\Github Projects\Factory_Unit_Testing\Factory\Assets\Tests\Dependecies\System.Reflection.Emit.dll
+H:\Github Projects\Factory_Unit_Testing\Factory\Assets\Tests\Dependecies\System.Reflection.Emit.ILGeneration.dll
+H:\Github Projects\Factory_Unit_Testing\Factory\Assets\Tests\Dependecies\System.Runtime.CompilerServices.Unsafe.dll
+H:\Github Projects\Factory_Unit_Testing\Factory\Assets\Tests\Dependecies\System.Security.Principal.Windows.dll
+H:\Github Projects\Factory_Unit_Testing\Factory\Assets\Tests\Dependecies\System.Threading.Tasks.Extensions.dll

@@ -1,0 +1,13 @@
+H:\Github Projects\Factory_Unit_Testing\UnitTestingDependencies\bin\Release\netstandard2.0\publish\UnitTestingDependencies.dll
+H:\Github Projects\Factory_Unit_Testing\UnitTestingDependencies\bin\Release\netstandard2.0\publish\UnitTestingDependencies.deps.json
+H:\Github Projects\Factory_Unit_Testing\UnitTestingDependencies\bin\Release\netstandard2.0\publish\UnitTestingDependencies.pdb
+H:\Github Projects\Factory_Unit_Testing\UnitTestingDependencies\bin\Release\netstandard2.0\publish\Castle.Core.dll
+H:\Github Projects\Factory_Unit_Testing\UnitTestingDependencies\bin\Release\netstandard2.0\publish\FluentAssertions.dll
+H:\Github Projects\Factory_Unit_Testing\UnitTestingDependencies\bin\Release\netstandard2.0\publish\Moq.dll
+H:\Github Projects\Factory_Unit_Testing\UnitTestingDependencies\bin\Release\netstandard2.0\publish\NSubstitute.dll
+H:\Github Projects\Factory_Unit_Testing\UnitTestingDependencies\bin\Release\netstandard2.0\publish\System.Diagnostics.EventLog.dll
+H:\Github Projects\Factory_Unit_Testing\UnitTestingDependencies\bin\Release\netstandard2.0\publish\System.Reflection.Emit.dll
+H:\Github Projects\Factory_Unit_Testing\UnitTestingDependencies\bin\Release\netstandard2.0\publish\System.Reflection.Emit.ILGeneration.dll
+H:\Github Projects\Factory_Unit_Testing\UnitTestingDependencies\bin\Release\netstandard2.0\publish\System.Runtime.CompilerServices.Unsafe.dll
+H:\Github Projects\Factory_Unit_Testing\UnitTestingDependencies\bin\Release\netstandard2.0\publish\System.Security.Principal.Windows.dll
+H:\Github Projects\Factory_Unit_Testing\UnitTestingDependencies\bin\Release\netstandard2.0\publish\System.Threading.Tasks.Extensions.dll

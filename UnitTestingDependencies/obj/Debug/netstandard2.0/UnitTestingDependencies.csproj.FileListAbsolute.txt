@@ -1,0 +1,10 @@
+H:\Github Projects\Factory_Unit_Testing\UnitTestingDependencies\bin\Debug\netstandard2.0\UnitTestingDependencies.deps.json
+H:\Github Projects\Factory_Unit_Testing\UnitTestingDependencies\bin\Debug\netstandard2.0\UnitTestingDependencies.dll
+H:\Github Projects\Factory_Unit_Testing\UnitTestingDependencies\bin\Debug\netstandard2.0\UnitTestingDependencies.pdb
+H:\Github Projects\Factory_Unit_Testing\UnitTestingDependencies\obj\Debug\netstandard2.0\UnitTestingDependencies.csproj.AssemblyReference.cache
+H:\Github Projects\Factory_Unit_Testing\UnitTestingDependencies\obj\Debug\netstandard2.0\UnitTestingDependencies.GeneratedMSBuildEditorConfig.editorconfig
+H:\Github Projects\Factory_Unit_Testing\UnitTestingDependencies\obj\Debug\netstandard2.0\UnitTestingDependencies.AssemblyInfoInputs.cache
+H:\Github Projects\Factory_Unit_Testing\UnitTestingDependencies\obj\Debug\netstandard2.0\UnitTestingDependencies.AssemblyInfo.cs
+H:\Github Projects\Factory_Unit_Testing\UnitTestingDependencies\obj\Debug\netstandard2.0\UnitTestingDependencies.csproj.CoreCompileInputs.cache
+H:\Github Projects\Factory_Unit_Testing\UnitTestingDependencies\obj\Debug\netstandard2.0\UnitTestingDependencies.dll
+H:\Github Projects\Factory_Unit_Testing\UnitTestingDependencies\obj\Debug\netstandard2.0\UnitTestingDependencies.pdb

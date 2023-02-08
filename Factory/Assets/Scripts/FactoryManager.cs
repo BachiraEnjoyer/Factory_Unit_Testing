@@ -311,7 +311,7 @@ public class FactoryManager : MonoBehaviour
 
             if (currentTool == ToolType.SpawnAgents)
             {
-                for (int i = 0; i < 3; i++)
+                for (int i = 0; i < 2; i++)
                 {
                     _botManager.TrySpawnBot(tile);
                 }
